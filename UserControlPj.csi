@@ -1,0 +1,8 @@
+[History]
+1=#P0#=mb	#P1#=txtText1_LostFocus	#P2#=Project3/UserControlPW/txtText1_LostFocus	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220224181126	#P7#=0	#P8#=13	.
+2=#P0#=mb	#P1#=UserControl_Resize	#P2#=Project3/UserControlPW/UserControl_Resize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220224113616	#P7#=0	#P8#=5	.
+3=#P0#=mb	#P1#=UserControl_ReadProperties	#P2#=Project3/UserControlPW/UserControl_ReadProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220224100829	#P7#=0	#P8#=1	.
+4=#P0#=mb	#P1#=UserControl_WriteProperties	#P2#=Project3/UserControlPW/UserControl_WriteProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220224045957	#P7#=0	#P8#=2	.
+5=#P0#=mb	#P1#=Text	#P2#=Project3/UserControlPW/Text [Let]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220224045924	#P7#=0	#P8#=-1	.
+6=#P0#=mb	#P1#=Text	#P2#=Project3/UserControlPW/Text [Get]	#P3#=	#P4#=	#P5#=MembProperty	#P6#=20220224045914	#P7#=0	#P8#=2	.
+7=#P0#=mb	#P1#=txtText1_Change	#P2#=Project3/UserControlPW/txtText1_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20220224045352	#P7#=0	#P8#=-1	.
